@@ -1,0 +1,854 @@
+Car , Price , Transmition, EXT_COLOR , INT_COLOR , Derivtrain 
+2020 BMW 740i,$93945,Automatic,Gray,Black,RWD
+2006 Chevrolet Monte Carlo SS,$9999,Automatic,Black,Black,FWD
+2019 BMW 330i,$46545,Automatic,Blue,Black,RWD
+2017 Cadillac CT6 3.0L Twin Turbo Platinum,$33979,Automatic,White,Beige,AWD
+2003 Jaguar S-Type,$4952,Manual,Red,Gray,RWD
+2019 Chevrolet 1LT,$33249,Automatic,Silver,Black,FWD
+2008 Jaguar XJ8 L,$10750,Automatic,Other,Gray,RWD
+2017 Maserati Ghibli Base,$35991,Automatic,Black,Black,RWD
+2007 Dodge Nitro SXT,$3500,Other / Unknown,Other,Other,4x4/4-wheel drive
+2019 Chevrolet WORK,MSRP $66956,Automatic,Red,Gray,4x4/4-wheel drive
+1990 Nissan 300ZX GS,$6495,Automatic,Yellow,Other,RWD
+2018 Lexus LC 500 Base,$58900,Automatic,Blue,Beige,RWD
+2003 Chevrolet Astro Ext 111" WB RWD,$4995,Automatic,White,Gold,RWD
+2006 Bentley Continental Flying Spur,$26995,Automatic,Blue,Beige,AWD
+2019 Lamborghini Urus Base,MSRP $45385,Automatic,Gray,Other,AWD
+2019 BMW 330i,$47125,Automatic,Gray,Beige,RWD
+2019 BMW 330i,$9988,Automatic,Black,Black,RWD
+2015 Jeep Renegade Latitude,$1990,Automatic,Green,Beige,FWD
+2006 Chrysler PT Cruiser Limited,$12995,Automatic,Beige,Gray,FWD
+2020 BMW 740i,$93945,Automatic,Gray,Black,RWD
+2006 Chevrolet Monte Carlo SS,$9999,Automatic,Black,Black,FWD
+2019 BMW 330i,$46545,Automatic,Blue,Black,RWD
+2017 Cadillac CT6 3.0L Twin Turbo Platinum,$33979,Automatic,White,Beige,AWD
+2003 Jaguar S-Type,$4952,Manual,Red,Gray,RWD
+2019 Chevrolet 1LT,$33249,Automatic,Silver,Black,FWD
+2008 Jaguar XJ8 L,$10750,Automatic,Other,Gray,RWD
+2017 Maserati Ghibli Base,$35991,Automatic,Black,Black,RWD
+2007 Dodge Nitro SXT,$3500,Other / Unknown,Other,Other,4x4/4-wheel drive
+2019 Chevrolet WORK,MSRP $66956,Automatic,Red,Gray,4x4/4-wheel drive
+1990 Nissan 300ZX GS,$6495,Automatic,Yellow,Other,RWD
+2018 Lexus LC 500 Base,$58900,Automatic,Blue,Beige,RWD
+2003 Chevrolet Astro Ext 111" WB RWD,$4995,Automatic,White,Gold,RWD
+2006 Bentley Continental Flying Spur,$26995,Automatic,Blue,Beige,AWD
+2019 Lamborghini Urus Base,MSRP $45385,Automatic,Gray,Other,AWD
+2019 BMW 330i,$47125,Automatic,Gray,Beige,RWD
+2019 BMW 330i,$9988,Automatic,Black,Black,RWD
+2015 Jeep Renegade Latitude,$1990,Automatic,Green,Beige,FWD
+2006 Chrysler PT Cruiser Limited,$12995,Automatic,Beige,Gray,FWD
+2014 Chevrolet Spark 1LT,$3195,CVT,Silver,Silver,FWD
+2018 Lexus LS 500 500,$46988,Automatic,Gray,Gray,RWD
+2018 Toyota Corolla iM Base,$11990,CVT,White,Black,FWD
+2018 Buick Encore Preferred II,$13189,Automatic,Black,Black,FWD
+2015 Lexus CT 200h Hybrid,$13950,CVT,Gray,Other,FWD
+2017 Cadillac CTS 2.0L Turbo Luxury,$19988,Automatic,Black,Black,AWD
+2017 Maserati Ghibli S Q4,$30850,Automatic,White,Red,AWD
+2006 Dodge Magnum,$3995,Automatic,Black,Gray,RWD
+2017 Chrysler 300C Platinum,$20500,Automatic,White,Black,RWD
+2015 Mercedes-Benz CLA 250,$14999,Automatic,White,Beige,FWD
+2013 Dodge Dart Limited/GT,$3950,Automatic,Blue,Gray,FWD
+2017 Nissan Sentra SR,$13500,CVT,White,Gray,FWD
+2004 Volkswagen Phaeton V8,$5495,Automatic,Silver,Other,AWD
+2015 Chrysler 300C Base,$9995,Automatic,Gray,Other,RWD
+2014 Buick Enclave Leather,$7795,Automatic,White,Gray,FWD
+2014 Honda Crosstour EX-L,$11697,Automatic,White,White,FWD
+2012 Fisker Karma EcoSport,$29995,Automatic,White,Black,RWD
+2017 Audi RS 7 4.0T Prestige,$49998,Automatic,Black,Black,AWD
+2009 Chrysler 300C,$8999,Automatic,Red,Other,AWD
+2005 Mazda RX-8 Sport Automatic,$6850,Automatic,Black,Black,RWD
+2016 Cadillac CT6 3.6L Premium Luxury,$26189,Automatic,White,Black,AWD
+2004 Jeep Liberty Limited,$6495,Automatic,Blue,Gray,4x4/4-wheel drive
+2013 Toyota Venza XLE,$12990,Automatic,White,Beige,AWD
+2020 Kia Telluride LX,$35584,Automatic,Gray,Black,AWD
+2016 RAM ProMaster 2500 High Roof,$12991,Automatic,White,Gray,FWD
+1999 Jaguar XK8,$6500,Automatic,Red,White,RWD
+2005 INFINITI FX35,$4900,Automatic,Black,Black,AWD
+2012 Scion tC Release Series 7.0,$6495,Automatic,Silver,Black,FWD
+2011 Nissan Murano CrossCabriolet Base,$11995,CVT,Black,Beige,AWD
+2019 Mercedes-Benz A 220,$29855,Automatic,Gray,Other,FWD
+2018 Kia Stinger GT2,$2995,Automatic,White,Black,RWD
+2007 Chevrolet Uplander LS,$5000,Automatic,Blue,Gray,FWD
+2011 Hyundai Elantra Limited,$7900,Automatic,Gray,Gray,FWD
+2013 Lincoln MKS EcoBoost,$4700,Automatic,Other,Other,AWD
+2014 Buick Verano Convenience,$1795,Automatic,Other,Other,FWD
+1989 Volvo 240 DL,$2300,Other / Unknown,White,Black,RWD
+2006 Pontiac Solstice,$169989,Manual,Red,Black,RWD
+2001 INFINITI QX4 4WD,$62900,Automatic,Gold,Beige,4x4/4-wheel drive
+2008 Chevrolet Tahoe Hybrid,$14499,CVT,Black,Beige,RWD
+2016 Nissan Versa 1.6 S+,$6990,CVT,Blue,Gray,FWD
+2019 Nissan Murano SL,$24499,CVT,Gray,Gray,AWD
+2017 BMW 340 i xDrive,$25495,Automatic,White,Red,AWD
+2014 Chrysler Town & Country Touring,$7999,Automatic,Silver,Gray,FWD
+2019 Chevrolet Spark LS,$13695,CVT,White,Black,FWD
+2006 Toyota Camry Solara SE V6,$3600,Automatic,White,Other,FWD
+2006 Bentley Continental Flying Spur,$34995,Automatic,Other,Other,AWD
+2019 Cadillac XT4 Sport,$29900,Automatic,White,Black,AWD
+2006 Lincoln LS V8,$4999,Automatic,Red,Black,RWD
+2013 Hyundai Accent GS,$7495,Automatic,Black,Black,FWD
+2004 Buick LeSabre Limited,$3999,Automatic,Gold,Beige,FWD
+2013 Mazda Mazda2 Sport,$4200,Automatic,Silver,Black,FWD
+2006 Dodge Magnum Base,$999,Automatic,Silver,Gray,RWD
+2001 Chrysler Prowler,$19823,Automatic,Blue,Black,RWD
+2016 Mercedes-Benz Maybach S S 600,$81997,Automatic,Black,Black,RWD
+2001 Toyota ECHO Base,$2700,Automatic,Blue,Gray,FWD
+2016 Kia Sedona SX-L,$19842,Automatic,Black,Brown,FWD
+1990 Jeep Grand Wagoneer 4WD,$9990,Automatic,Blue,Beige,4x4/4-wheel drive
+2008 Chrysler Sebring Limited,$5495,Automatic,Gold,Beige,FWD
+2004 Mazda RX-8 Base,$4988,Manual,Gray,Black,RWD
+2001 Lexus LS 430,$15995,Automatic,Other,Beige,RWD
+2017 Nissan Maxima 3.5 SR,$16299,CVT,Black,Gray,FWD
+2019 Ford Expedition Max XLT,$44000,Automatic,White,Beige,4x4/4-wheel drive
+2020 Lamborghini Urus Base,$247900,Automatic,Gray,Gray,AWD
+1999 Mercury Cougar Base,$1999,Automatic,Silver,Black,FWD
+2007 Lincoln Navigator Ultimate,$6900,Automatic,White,Beige,4x4/4-wheel drive
+2012 Toyota Yaris LE,$8999,Automatic,Black,Other,FWD
+2014 Scion tC Base,$5950,Manual,Gray,Gray,FWD
+2007 INFINITI M45 Sport,$8890,Automatic,Black,Gray,RWD
+2007 Volvo C70,$5965,Other / Unknown,Other,Other,FWD
+2013 Ford Utility Police Interceptor Base,$12595,Automatic,White,Black,AWD
+2018 Toyota C-HR XLE,$13900,CVT,Red,Black,FWD
+1977 MG MGB,$9995,Manual,Yellow,Brown,Unknown
+2016 Chrysler 200 Limited,$7942,Automatic,Silver,Black,FWD
+2019 Kia K900 Luxury,$39995,Automatic,White,Black,AWD
+2020 Hyundai Palisade SEL,$12495,Automatic,White,Black,AWD
+2019 Honda Passport Sport,$10000,Automatic,Black,Black,AWD
+2019 Buick Envision Preferred,$19189,Automatic,Gray,Beige,FWD
+2013 Hyundai Equus Signature,$11599,Automatic,White,Beige,RWD
+2016 Nissan Maxima 3.5 S,$14499,CVT,Red,Beige,FWD
+2019 Subaru Ascent Premium 7-Passenger,$25269,CVT,White,White,AWD
+2018 Buick Encore Preferred,$12689,Automatic,Black,Black,FWD
+2018 Nissan Altima 2.5 SR,$13799,CVT,Black,Blue,FWD
+2018 Chrysler Pacifica Hybrid Limited,$31991,Automatic,Gray,Black,FWD
+2018 Hyundai Sonata Limited 2.0T+,$17991,Automatic,Black,Black,FWD
+2009 Mercury Grand Marquis LS,$5995,Automatic,White,Beige,RWD
+1994 Mazda RX-7,$28915,Manual,Green,Brown,Unknown
+2020 Kia Telluride S,$36995,Automatic,White,Black,AWD
+2014 Audi RS 7 4.0T Prestige,$46929,Automatic,White,Black,AWD
+2012 INFINITI G37 Journey,$7990,Automatic,Black,Gray,RWD
+2003 Chevrolet Avalanche 1500,$999,Automatic,Silver,Other,4x4/4-wheel drive
+2015 Kia Soul Base,$8995,Automatic,Brown,Black,FWD
+2003 Mercury Marauder,$53500,Automatic,Black,Gray,RWD
+2018 Volvo XC90 Hybrid T8 Inscription,$5994,Automatic,Silver,Gray,AWD
+2000 Toyota Celica GT,$28683,Manual,Silver,Gray,FWD
+2016 Hyundai Equus Signature,$17599,Automatic,Black,White,RWD
+2014 Hyundai Genesis Coupe 2.0T,$10990,Automatic,Gray,Black,RWD
+2005 Mercury Grand Marquis GS,$4988,Automatic,Silver,Gray,RWD
+2016 Cadillac CT6 3.0L Twin Turbo Platinum,$33499,Automatic,White,Beige,AWD
+2006 MINI Cooper,$12499,Other / Unknown,White,Black,FWD
+2017 Nissan Sentra SR Turbo,$3995,CVT,Gray,Gray,FWD
+2002 Chevrolet TrailBlazer LTZ,$6995,Automatic,Blue,Gray,4x4/4-wheel drive
+2016 Nissan Versa 1.6 SV,$30000,CVT,Blue,Gray,FWD
+2019 Chevrolet Spark LS,$10995,CVT,Red,Gray,FWD
+2012 Nissan GT-R Premium,$18080,Automatic,Silver,Beige,AWD
+2016 Scion FR-S Release Series 2.0,$47999,Automatic,Black,Black,RWD
+2019 Chevrolet Spark 2LT,$36995,Automatic,Gray,Black,FWD
+2017 Cadillac Escalade ESV Platinum,$45999,Automatic,Black,Brown,4x4/4-wheel drive
+2015 Alfa Romeo 4C Base,$22999,Automatic,White,Black,RWD
+2014 Audi RS 7 4.0T Prestige,$5904,Automatic,Black,Black,AWD
+2018 BMW X2 sDrive28i,$9995,Automatic,Gray,Black,FWD
+2007 Mercedes-Benz R 350 4MATIC,$37567,Automatic,Blue,Gray,AWD
+2013 Ford Sedan Police Interceptor Base,$6995,Automatic,White,Black,AWD
+2007 Ford Crown Victoria Police Interceptor,$6995,Automatic,Black,Gray,RWD
+2012 Buick LaCrosse Premium 1,$8990,Automatic,Beige,Beige,FWD
+2016 Audi Q5 3.0T Premium Plus,$25289,Automatic,Gray,Black,AWD
+2016 Ford Expedition EL King Ranch,$32199,Automatic,White,Black,4x4/4-wheel drive
+2008 Pontiac Solstice,$6999,Automatic,Silver,Black,RWD
+2011 Dodge Avenger Heat,$5999,Automatic,Silver,Black,FWD
+2020 Chevrolet Spark LS,$10995,CVT,Gray,Black,FWD
+2019 Chevrolet Spark 1LT,$13800,CVT,Blue,Black,FWD
+2019 Honda Passport Touring,$29989,Automatic,White,Black,AWD
+2011 Hyundai Equus,$8875,Automatic,White,Beige,RWD
+2016 Scion iM Base,$8999,Automatic,Red,Black,FWD
+2008 smart ForTwo Passion,$4970,Automatic,Red,Red,RWD
+2020 Hyundai Palisade SEL,$38419,Automatic,Other,Black,FWD
+2016 Lexus NX 200t Base,$16999,Automatic,Gray,Black,FWD
+2014 Hyundai Equus Ultimate,$21999,Automatic,Brown,White,RWD
+2020 Hyundai Palisade SEL,$35990,Automatic,Other,Black,FWD
+2018 Chevrolet Cruze LT,$6995,Automatic,Other,Other,FWD
+2011 Mercedes-Benz GLK 350 4MATIC,$6900,Automatic,White,Beige,AWD
+2019 Lamborghini Urus Base,$249000,Automatic,White,Black,AWD
+2018 Lexus LC 500 Base,$68851,Automatic,White,Other,RWD
+2000 BMW Z3 2.3 Roadster,$6500,Manual,Gray,Black,RWD
+2017 Buick Enclave Premium,$20399,Automatic,Silver,Black,FWD
+2015 Mitsubishi Mirage,$6499,CVT,Silver,Black,FWD
+2018 Lamborghini Aventador S Base,$419900,Automatic,Black,Black,AWD
+2020 Kia Telluride SX,$46500,Automatic,Green,Black,FWD
+2019 Hyundai Sonata SE,$13950,Automatic,Black,Gray,FWD
+2012 Land Rover LR4 Base,$16990,Automatic,Black,Black,4x4/4-wheel drive
+2018 Cadillac CT6 3.0L Twin Turbo Platinum,$38488,Automatic,Red,Other,AWD
+2006 Toyota Camry Solara SLE,$5490,Automatic,Red,Beige,FWD
+2006 Mitsubishi Lancer Evolution IX,$18995,Manual,Black,Black,AWD
+2020 Chevrolet Spark LS,$12411,CVT,Orange,Black,FWD
+2013 Scion tC SPORTS 6-SPD,$8995,Automatic,Silver,Black,FWD
+2015 Chrysler 200 Limited,$8900,Automatic,Other,Other,FWD
+2015 Dodge Dart SXT,$6500,Automatic,Red,Black,FWD
+2019 Chevrolet Blazer 3LT,$33399,Automatic,Gray,Black,AWD
+2007 Ford Explorer Sport Trac Limited,$8900,Automatic,Red,Other,4x4/4-wheel drive
+2019 Mercedes-Benz AMG GT 63 S 4-Door,$164939,Automatic,Gray,Other,AWD
+2018 Volvo S90 Hybrid T8 Inscription,$39500,Automatic,Silver,Gray,AWD
+2014 Toyota Prius Plug-in,$13495,CVT,Black,Gray,FWD
+2004 Mazda MX-5 Miata Cloth,$9995,Manual,Gray,Black,RWD
+2019 Honda Passport Touring,$27199,Automatic,Other,Black,FWD
+2018 Honda HR-V EX-L w/Navigation,$16689,CVT,Gray,Black,FWD
+2012 Honda Odyssey EX,$8995,Automatic,Silver,Other,FWD
+2017 Audi S7 4.0T Premium Plus,$53900,Automatic,Gray,Black,AWD
+2018 Audi A4 allroad 2.0T Premium quattro,$13995,Automatic,White,Black,AWD
+2019 Chevrolet Cruze LT,$45225,Automatic,Black,Silver,FWD
+2019 Ford Transit-350 XLT,$7995,Automatic,White,Other,RWD
+2013 Hyundai Veloster Turbo,$10999,Manual,White,Black,FWD
+2008 Saturn Sky Red Line,$13899,Manual,Silver,Black,RWD
+2012 Hyundai Equus Signature,$17198,Automatic,Black,Black,RWD
+2018 Dodge Journey SE,$9999,Automatic,Black,Black,FWD
+2015 Scion FR-S,$2995,Manual,Gray,Other,RWD
+2019 Volkswagen Arteon 2.0T SEL Premium R-Line,$10988,Automatic,Black,Black,AWD
+2004 Chevrolet Malibu Maxx LS,$2999,Automatic,White,Gray,FWD
+2020 Chevrolet Spark LS,$13669,CVT,Orange,Black,FWD
+2006 Chevrolet Monte Carlo LS,$87990,Automatic,Other,Beige,FWD
+2020 Chevrolet Spark 1LT,$7499,CVT,White,Black,FWD
+2015 Porsche 911,$15500,Other / Unknown,Black,Black,Unknown
+2018 Chevrolet Impala 1LT,$12999,Automatic,Blue,Black,FWD
+2018 Genesis G80 5.0 Ultimate,$30489,Automatic,White,Gray,AWD
+2009 Hummer H3T,$17491,Automatic,Silver,Gray,4x4/4-wheel drive
+2006 Chrysler Crossfire Limited,$4500,Automatic,Brown,Gray,RWD
+2010 Mitsubishi Eclipse Spyder GS,$3488,Automatic,Gray,Black,FWD
+2017 Honda Accord Sport,$9900,CVT,White,Black,FWD
+2000 Buick Century Custom,$2500,Automatic,Red,Other,FWD
+2019 Honda HR-V EX-L,$15900,CVT,Black,Black,FWD
+2005 Buick Rendezvous CX,$1750,Automatic,Gray,Gray,FWD
+2005 Mitsubishi Galant ES,$1700,Automatic,Gray,Other,FWD
+2020 Chevrolet Spark LS,$12106,CVT,Black,Black,FWD
+2020 Chevrolet Spark LS,$11981,CVT,Silver,Black,FWD
+2020 Chevrolet Spark LS,$19998,CVT,Silver,Black,FWD
+2014 Lexus GS 350 Base,$2500,Automatic,White,Red,RWD
+1997 Lincoln Town Car Executive,$13995,Automatic,Silver,Gray,RWD
+2014 Honda CR-V LX,$1800,Automatic,Gray,Black,FWD
+1989 Nissan 240SX SE,$11500,Manual,White,Other,RWD
+2010 Nissan Versa 1.8 S,$10995,Automatic,Silver,Gray,FWD
+2004 Lamborghini Gallardo,$14980,Manual,Other,Black,AWD
+2018 Dodge Grand Caravan SE,$15389,Automatic,White,Black,FWD
+2016 Chevrolet Impala 2LZ,$14195,Automatic,Blue,Black,FWD
+2004 Subaru Baja Turbo,$18545,Automatic,Silver,Gray,AWD
+2020 Chevrolet Spark LS,$16850,CVT,Black,Black,FWD
+2020 Chevrolet Trax LS,$8291,Automatic,Black,Black,FWD
+2018 Hyundai Sonata Limited,$16555,Automatic,Red,Gray,FWD
+2014 Cadillac ATS 2.5L,$7500,Automatic,Silver,Black,RWD
+2017 Mercedes-Benz B 250e,$11963,Automatic,White,Other,FWD
+2008 Chrysler Aspen Limited,$13800,Automatic,White,Other,4x4/4-wheel drive
+2020 Chevrolet Spark LS,$12988,CVT,Silver,Black,FWD
+2020 Chevrolet Spark LS,$69600,CVT,Orange,Black,FWD
+2020 Chevrolet Spark LS,$9495,CVT,Black,Black,FWD
+2018 Lotus Evora 400 Base,$999,Manual,Purple,Black,RWD
+2016 Chevrolet Malibu Limited LT,$48990,Automatic,Beige,Gray,FWD
+2006 Pontiac Grand Prix Base,$13965,Automatic,Red,Black,FWD
+2018 Land Rover Range Rover Velar D180 S,$5500,Automatic,White,Other,4x4/4-wheel drive
+2020 Chevrolet Spark 1LT,$21500,CVT,White,Black,FWD
+2018 Lexus IS 300 F Sport,$24998,Automatic,White,Black,RWD
+2013 Hyundai Genesis Coupe 2.0T Premium,$9999,Automatic,Black,Beige,Unknown
+2020 Chevrolet Spark LS,$13090,CVT,Blue,Black,FWD
+2020 Chevrolet Spark LS,$14195,CVT,Beige,Black,FWD
+2020 Chevrolet Spark LS,$14195,CVT,Red,Black,FWD
+2020 Chevrolet Spark LS,$14195,CVT,Gray,Black,FWD
+2020 Chevrolet Spark LS,$14195,CVT,Silver,Black,FWD
+2018 Alfa Romeo Stelvio Ti,$31340,Automatic,Silver,Black,AWD
+2019 Nissan Versa 1.6 SV,$14999,CVT,Red,Other,FWD
+2019 Honda Civic Sport,$12900,Manual,Silver,Black,FWD
+2012 Audi A7 3.0T quattro Premium,$16995,Automatic,Red,Brown,AWD
+2006 Jeep Commander Base,$5000,Automatic,Black,Beige,4x4/4-wheel drive
+2019 Nissan Armada SL,$43730,Automatic,White,Gray,RWD
+2019 Genesis G70 2.0T Advanced,$32770,Automatic,Red,Black,AWD
+2012 Jeep Wrangler Unlimited Sport,$17678,Automatic,Red,Black,4x4/4-wheel drive
+2007 Cadillac DTS Luxury,$8965,Automatic,Black,Other,FWD
+2020 Chevrolet Spark LS,$12876,CVT,Silver,Black,FWD
+2016 Mercedes-Benz Maybach S S 600,$83995,Automatic,Black,Black,RWD
+2016 Volvo XC90 Hybrid T8 R-Design,$41933,Automatic,White,Gray,AWD
+2017 Genesis G90 5.0 Ultimate,$40488,Automatic,Brown,Beige,AWD
+2018 Ford Focus ST Base,$16669,Manual,Black,Black,FWD
+2003 Audi A4 1.8T quattro,$5800,Automatic,Blue,Black,AWD
+2017 Lincoln Continental Reserve,$24999,Automatic,Black,Black,FWD
+2019 Chevrolet Cruze LT,$10969,Automatic,Silver,Black,FWD
+2020 Chevrolet Spark LS,$10995,CVT,Red,Black,FWD
+2015 Chrysler 200 Limited,$8950,Automatic,Gray,Gray,FWD
+2013 Mazda MazdaSpeed3 Touring,$12995,Manual,Red,Black,FWD
+2016 Porsche Cayenne E-Hybrid S,$40799,Automatic,Silver,Black,AWD
+2020 Lincoln Aviator Reserve,$56462,Automatic,Black,Black,RWD
+2010 Jeep Commander Limited,$12777,Automatic,Silver,Gray,4x4/4-wheel drive
+2013 Audi S8 4.0T quattro,$25300,Automatic,Silver,Silver,AWD
+2003 Hummer H1 Wagon,$16775,Automatic,Green,Green,4x4/4-wheel drive
+2018 Alfa Romeo Stelvio Ti,$27839,Automatic,Gray,Black,AWD
+2020 Chevrolet Trax LS,$18757,Automatic,Gray,Black,FWD
+2006 Mazda MazdaSpeed6 Grand Touring,$6991,Manual,Black,Black,AWD
+2010 Acura ZDX,$15499,Automatic,Silver,Black,AWD
+2007 Jeep Commander Sport,$5750,Automatic,Black,Gray,4x4/4-wheel drive
+2020 Kia Rio S,$14790,CVT,Blue,Black,FWD
+2018 Lexus LC 500 Base,$67599,Automatic,Black,Beige,RWD
+2013 Honda Crosstour EX,$12995,Automatic,Black,Black,FWD
+2005 Honda Element EX,$8888,Automatic,Green,Gray,FWD
+2017 Nissan Titan Platinum Reserve,$26999,Automatic,White,Black,4x4/4-wheel drive
+2017 GMC Yukon XL Denali,$43499,Automatic,White,Brown,4x4/4-wheel drive
+2019 Audi Q8 3.0T Premium,$55500,Automatic,Silver,Black,AWD
+2015 Ford Transit-250 130 WB Medium Roof Cargo,$14995,Automatic,Yellow,Gray,RWD
+2014 Kia Cadenza Premium,$11488,Automatic,Blue,Beige,FWD
+2018 Ford EcoSport SES,$12980,Automatic,Black,Black,4x4/4-wheel drive
+2015 BMW ALPINA B6 Gran Coupe Base,$39995,Automatic,Black,Black,AWD
+2005 Volkswagen New Beetle GLS,$3892,Automatic,Gray,Black,FWD
+2018 Chrysler Pacifica Hybrid Touring Plus,$34921,Automatic,Gray,Black,FWD
+2019 Lincoln MKC Select,$19000,Automatic,White,Beige,AWD
+2015 Toyota Tundra Platinum,$16778,Automatic,Black,Black,AWD
+2020 Chevrolet Spark 2LT,$10835,CVT,Black,Black,FWD
+2005 Dodge Magnum R/T,$3900,Automatic,Silver,Gray,RWD
+2004 GMC Sonoma SLS,$28579,Automatic,Gold,Gray,4x4/4-wheel drive
+2019 Dodge Journey GT,$10995,Automatic,Black,Red,FWD
+2018 Nissan Rogue Sport S,$6995,CVT,White,Other,AWD
+2007 Acura RL,$7000,Automatic,Blue,Beige,AWD
+2008 Mercury Grand Marquis LS,$15997,Automatic,Blue,Beige,RWD
+2014 Cadillac SRX Performance Collection,$11998,Automatic,Black,Black,AWD
+2017 Chrysler Pacifica Hybrid Platinum,$29575,Automatic,Blue,Other,FWD
+2016 Jeep Renegade Latitude,$12995,Automatic,Gray,Black,4x4/4-wheel drive
+2012 Chevrolet Express 3500 LS,$9950,Automatic,White,Other,RWD
+2020 Chevrolet Spark LS,$10995,CVT,Beige,Black,FWD
+2020 Chevrolet Spark LS,$10995,CVT,Blue,Black,FWD
+2015 Chevrolet Trax LT,$10950,Automatic,Gray,Black,AWD
+2007 Dodge Magnum SRT8,$12500,Automatic,Other,Gray,RWD
+1995 Mitsubishi 3000GT VR-4 Spyder,$20950,Automatic,Red,Black,AWD
+2017 Mercedes-Benz AMG C 43 Base 4MATIC,$33500,Automatic,Silver,Red,AWD
+2017 Ford Focus RS Base,$57900,Manual,Gray,Black,AWD
+2012 Aston Martin V8 Vantage S Base,$14999,Automatic,Silver,Black,RWD
+2011 Nissan Murano CrossCabriolet,$10395,CVT,Black,Black,AWD
+2013 Honda Civic Hybrid W/ INTERIOR,$3900,CVT,Gray,Gray,FWD
+2007 Jeep Commander Sport,$12144,Automatic,White,Beige,4x4/4-wheel drive
+2020 Chevrolet Spark LS,$19070,CVT,Gray,Black,FWD
+2019 Nissan Kicks SV,$2995,CVT,Black,Gray,FWD
+2008 Saturn Vue XR,$3699,Automatic,Red,Beige,AWD
+2010 Toyota Matrix S,$29995,Automatic,Silver,Other,FWD
+2017 INFINITI Q70 3.7,$18498,Automatic,Silver,Gray,RWD
+2018 Chevrolet Traverse LT Cloth,$23689,Automatic,Gray,Black,AWD
+2019 Chevrolet Spark 2LT,$18777,CVT,Blue,Other,FWD
+2019 Chevrolet Equinox LS,$15999,Automatic,White,Gray,AWD
+2020 Hyundai Ioniq Hybrid Blue,$23775,Automatic,White,Gray,FWD
+2020 Chevrolet Spark LS,$14195,CVT,White,Black,FWD
+2016 Ford Fiesta ST,$13989,Manual,Blue,Other,FWD
+2017 Volvo XC90 Hybrid T8 Inscription,$55486,Automatic,Black,Orange,AWD
+2004 Buick Century,$3799,Automatic,Green,Beige,FWD
+2020 Hyundai Palisade SEL,$35779,Automatic,Other,Black,FWD
+2018 BMW 440 i xDrive,$28495,Automatic,Black,Beige,AWD
+2011 Saab 9-5 Turbo4 Premium,$10995,Automatic,Gray,Black,FWD
+2012 Lamborghini Aventador LP700-4,$259800,Automatic,White,Black,AWD
+2017 Nissan Sentra SR Turbo,$12999,CVT,Gray,Gray,FWD
+2020 Chevrolet Spark 1LT,$17038,CVT,White,Black,FWD
+2016 BMW i8 Base,$66950,Automatic,Gray,White,AWD
+2004 Chrysler Crossfire,$6795,Manual,Blue,Gray,RWD
+2012 Nissan Murano CrossCabriolet Base,$17000,CVT,Gray,Other,AWD
+2001 Cadillac Eldorado ETC,$4495,Automatic,Silver,Other,FWD
+2019 Lamborghini Urus Base,$247942,Automatic,Other,Black,AWD
+2017 Ford Flex Limited,$16289,Automatic,Black,Beige,FWD
+2020 Chevrolet Spark LS,$14195,CVT,Silver,Black,FWD
+2020 Chevrolet Spark LS,$14195,CVT,Beige,Black,FWD
+2020 Chevrolet Spark LS,$14195,CVT,Gray,Black,FWD
+2020 Chevrolet Spark LS,$14195,CVT,Red,Black,FWD
+2020 Chevrolet Spark ACTIV,$16000,CVT,Orange,Black,FWD
+2016 Chevrolet Malibu Limited LTZ,$9995,Automatic,Silver,Black,FWD
+1993 Mazda RX-7,$26977,Manual,Red,Red,Unknown
+2018 Dodge Durango SRT,$51556,Automatic,White,Black,AWD
+2020 Chevrolet Trax LS,$17507,Automatic,Gray,Black,FWD
+2020 Chevrolet Trax LS,$18979,Automatic,Black,Gray,FWD
+2020 Chevrolet Trax LS,$15995,Automatic,Silver,Black,FWD
+2019 Dodge Grand Caravan GT,$16128,Automatic,Gray,Other,FWD
+2020 Chevrolet Spark 1LT,$12463,CVT,Red,Black,FWD
+2020 Chevrolet Spark LS,$18748,CVT,Gray,Black,FWD
+2019 Dodge Journey Crossroad,$23923,Automatic,Green,Black,FWD
+2018 Buick Regal TourX Preferred,$8795,Automatic,Silver,Black,AWD
+2017 FIAT 124 Spider Lusso,$3950,Automatic,Silver,Brown,RWD
+1989 Buick Reatta Base,$6995,Automatic,Red,Brown,FWD
+2018 Lexus RX 350L Premium,$36995,Automatic,Other,Other,FWD
+2016 Acura RLX Advance Package,$20979,Automatic,White,Gray,FWD
+2019 Volkswagen Atlas 3.6L SE w/Technology,$23989,Automatic,Black,Beige,FWD
+2009 Chrysler 300C,$5999,Automatic,Gold,Gray,AWD
+2019 Ford Fusion Energi Titanium,$4995,CVT,Gray,Black,FWD
+2013 Chevrolet Spark 1LT,$27700,Manual,Purple,Gray,FWD
+2019 Acura MDX Sport Hybrid 3.0L w/Advance Package,$12465,Automatic,Black,Black,AWD
+2016 Maserati Quattroporte S,$12565,Automatic,White,Black,RWD
+2020 Chevrolet Spark LS,$26278,CVT,Silver,Black,FWD
+2020 Chevrolet Spark LS,$17995,CVT,White,Black,FWD
+2019 Dodge Journey GT,$8995,Automatic,White,Red,AWD
+2015 Jaguar XJ Base,$12965,Automatic,Black,Black,RWD
+2017 Nissan NV200 S,$4999,CVT,White,Gray,FWD
+2020 Chevrolet Spark LS,$1995,CVT,Orange,Black,FWD
+2012 Dodge Avenger SXT,$14245,Automatic,Black,Other,FWD
+1992 Volvo 240 GL,$12995,Other / Unknown,White,Beige,Unknown
+2020 Chevrolet Spark 1LT,$4977,CVT,White,Black,FWD
+2018 Dodge Journey SE,$9400,Automatic,Black,Black,FWD
+2016 Honda Fit EX,$9990,CVT,Red,Black,FWD
+2020 Chevrolet Spark LS,$12287,CVT,White,Black,FWD
+2019 Hyundai Sonata SEL,$14179,Automatic,Blue,Gray,FWD
+2020 Chevrolet Spark LS,$11995,CVT,Red,Black,FWD
+2006 Jeep Commander Base,$10500,Automatic,Silver,Gray,4x4/4-wheel drive
+2014 Dodge Avenger SE,$5995,Automatic,White,Gray,FWD
+2020 Chevrolet Spark LS,$11456,Automatic,Red,Black,FWD
+2010 Hummer H3 Luxury Edition,$8950,Automatic,Silver,Black,4x4/4-wheel drive
+2014 Chevrolet SS Base,$18900,Automatic,Black,Black,RWD
+2019 BMW X7 xDrive40i,$72986,Automatic,Gray,Other,AWD
+2015 BMW 650 Gran Coupe i,$25900,Automatic,Black,Black,RWD
+2017 Bentley Bentayga W12,$13821,Automatic,Black,Black,AWD
+2020 Chevrolet Spark LS,$7140,CVT,White,Black,FWD
+2016 FIAT 500e Battery Electric,$17477,Automatic,Silver,Black,FWD
+2019 Audi RS 3 2.5T,$36295,Automatic,Blue,Black,AWD
+2019 Dodge Journey Crossroad,$26995,Automatic,Red,Black,FWD
+2020 Kia Telluride S,$10990,Automatic,White,Gray,FWD
+2018 Nissan NV Passenger NV3500 HD S V6/S V8,$7995,Automatic,Gray,Gray,RWD
+2004 Buick Century,$3500,Automanual,Beige,Beige,RWD
+2020 Chevrolet Spark LS,$13971,Automatic,White,Black,FWD
+2002 Toyota MR2 Spyder,$14495,Manual,Black,Black,RWD
+2010 Mercury Grand Marquis LS,$9488,Automatic,Silver,Other,RWD
+2013 Dodge Dart SE,$5990,Manual,Black,Black,FWD
+2020 Hyundai Palisade SEL,$46988,Automatic,Black,Black,FWD
+2017 Acura ILX,$12995,Automatic,Black,Black,FWD
+2020 Chevrolet Trax LS,$18757,Automatic,Silver,Black,FWD
+2015 Jaguar XF 3.0 Portfolio,$15999,Automatic,Black,Other,RWD
+2011 Dodge Caliber Mainstreet,$5995,CVT,Silver,Gray,FWD
+2003 Lincoln LS,$500,Automatic,Other,Other,RWD
+2006 Buick Lucerne CXL,$5297,Automatic,Green,Gray,FWD
+2017 Kia Optima EX,$12700,Automatic,Other,Other,FWD
+2005 Chrysler Crossfire Limited,$4995,Automatic,Gray,Red,RWD
+2020 Chevrolet Spark LS,$10990,Automatic,Red,Black,FWD
+2014 Subaru XV Crosstrek 2.0i Limited,$8499,CVT,Beige,Black,AWD
+2020 Chevrolet Spark LS,$13673,CVT,Red,Black,FWD
+2016 Hyundai Equus Signature,$23400,Automatic,Black,Black,RWD
+2020 Lincoln Aviator Standard,$64440,Automatic,Blue,Beige,AWD
+2013 Volvo XC60 T6 Platinum,$16989,Automatic,White,Black,AWD
+2020 Chevrolet Spark LS,$14345,CVT,Gray,Black,FWD
+2016 Honda HR-V EX,$10990,CVT,Red,Black,FWD
+2020 Chevrolet Spark LS,$12968,Automatic,Red,Black,FWD
+2014 INFINITI QX60 Base,$13365,CVT,White,Beige,AWD
+2019 Cadillac XT4 Sport,$29999,Automatic,White,Black,AWD
+2019 Chevrolet Blazer 1LT,$22850,Automatic,Black,Other,FWD
+2005 Mercury Grand Marquis LS,$5898,Automatic,Beige,Beige,RWD
+2014 Toyota Prius Four,$11995,CVT,Red,Beige,FWD
+2007 Saturn Sky Red Line,$12650,Automatic,Black,Red,RWD
+2018 Mercedes-Benz Metris Base,$27900,Automatic,Black,Black,RWD
+2009 INFINITI FX50,$14500,Automatic,Gray,Black,AWD
+2019 Hyundai Kona SE,$14995,Automatic,Silver,Black,AWD
+2016 Honda Fit LX,$9950,CVT,Silver,Black,FWD
+2017 Ford Shelby GT350 Base,$38994,Manual,Gray,Black,RWD
+2007 Lincoln Town Car Signature,$7793,Automatic,Silver,White,RWD
+2014 Mitsubishi Outlander SE,$8200,CVT,Other,Other,4x4/4-wheel drive
+2020 Chevrolet Trax LS,$17811,Automatic,White,Black,FWD
+2004 Buick LeSabre Custom,$2995,Automatic,Other,Gray,FWD
+2018 Mitsubishi Eclipse Cross SEL,$18995,CVT,Gray,Black,4x4/4-wheel drive
+2007 Mazda RX-8 Sport,$8495,Manual,Silver,Black,RWD
+2020 Chevrolet Spark LS,$14357,CVT,White,Black,FWD
+2017 Chevrolet Equinox LT BLUETOOTH&BACKUP CAMERA,$13599,Automatic,Black,Black,FWD
+2017 Chevrolet Malibu Hybrid,$13899,Automatic,Blue,Black,FWD
+2018 Chevrolet Impala 2LZ,$15299,Automatic,Black,Black,FWD
+2019 Lincoln Continental Standard,$24599,Automatic,Other,Black,FWD
+2016 Kia Cadenza,$13594,Automatic,White,Beige,FWD
+2020 Chevrolet Trax LS,$19790,Automatic,White,Black,FWD
+2005 Chrysler Crossfire Limited,$9500,Automatic,Gray,Red,RWD
+2020 Chevrolet Spark LS,$12751,Manual,Black,Black,FWD
+2019 Toyota 86 GT,$24200,Automatic,Blue,Black,RWD
+2011 GMC Savana 1500 Upfitter Cargo,$22995,Automatic,Black,Gray,RWD
+2020 Chevrolet Trax LS,$18757,Automatic,Gray,Black,FWD
+2020 Chevrolet Spark LS,$13894,CVT,Silver,Black,FWD
+2020 Chevrolet Spark LS,$13561,CVT,Black,Black,FWD
+2020 Chevrolet Trax LS,$18979,Automatic,Silver,Black,FWD
+2008 Pontiac G6 Base,$3850,Automatic,White,Other,FWD
+2020 Kia Telluride S,$36443,Automatic,White,Black,FWD
+2000 Honda Prelude,$2995,Manual,Black,Other,FWD
+2020 Chevrolet Spark LS,$13345,Automatic,White,Black,FWD
+2020 Chevrolet Spark LS,$11548,Automatic,Silver,Black,FWD
+2013 Ford Focus Electric Base,$7399,Automatic,Black,Gray,FWD
+2015 Toyota Sienna LE,$12990,Automatic,Blue,Gray,FWD
+2015 Hyundai Sonata Sport,$9990,Automatic,Black,Gray,FWD
+2017 Dodge Durango R/T,$23492,Automatic,Red,Black,AWD
+2015 Ford Fusion SE,$5995,Automatic,Gray,Other,FWD
+2015 Cadillac ATS 3.6L Luxury,$19998,Automatic,Black,Other,AWD
+2011 Nissan Murano CrossCabriolet Base,$11900,Automatic,Black,Beige,AWD
+2019 Honda Pilot Touring 8-Passenger,$29900,Automatic,Black,Gray,AWD
+2018 Mercedes-Benz GLS 550 Base 4MATIC,$60500,Automatic,Gray,Other,AWD
+2020 Chevrolet Trax LS,$18474,Automatic,White,Black,FWD
+2020 Chevrolet Trax LS,$18474,Automatic,White,Black,FWD
+2020 Chevrolet Spark LS,$9988,CVT,Orange,Black,FWD
+2020 Chevrolet Spark LS,$9988,CVT,Orange,Black,FWD
+2020 Chevrolet Spark LS,$9988,CVT,Orange,Black,FWD
+2020 Chevrolet Spark LS,$11995,CVT,Black,Black,FWD
+2014 Audi allroad 2.0T Premium quattro,$14900,Automatic,Blue,Brown,AWD
+2014 Buick LaCrosse Leather,$10797,Automatic,White,Brown,FWD
+2004 Ford Thunderbird Premium,$16999,Automatic,Green,Black,RWD
+2005 Mazda RX-8,$2200,Automatic,Gray,Gray,FWD
+2016 Mazda CX-3 Sport,$15980,Automatic,Black,Black,AWD
+2018 Ford Focus ST Base,$16999,Manual,Black,Black,FWD
+2014 Kia Optima LX,$7490,Automatic,Gray,Other,FWD
+2014 Nissan Juke S,$7990,CVT,White,Black,FWD
+2013 Toyota Avalon Hybrid XLE Touring,$14488,CVT,Green,Beige,FWD
+2020 Kia Telluride LX,$37999,Automatic,White,Black,AWD
+2020 Chevrolet Spark LS,$12315,CVT,Silver,Black,FWD
+2017 Nissan NV Passenger NV3500 HD SV V6/SV V8,$28781,Automatic,White,Gray,RWD
+2020 Chevrolet Spark LS,$13495,CVT,White,Black,FWD
+2020 Chevrolet Spark 1LT,$16095,CVT,Black,Black,FWD
+2018 Chevrolet Spark 1LT,$7995,CVT,Pink,Black,FWD
+2018 Ford EcoSport Titanium,$22695,Automatic,Black,Black,4x4/4-wheel drive
+2018 Volkswagen Atlas 3.6L SE w/Technology,$18847,Automatic,Black,Black,FWD
+2020 Chevrolet Trax LS,$12891,Automatic,Gray,Black,FWD
+2020 Chevrolet Spark LS,$12500,CVT,Red,Black,FWD
+1985 Chevrolet Astro,$7795,Automatic,Gray,Other,RWD
+2015 Chrysler Town & Country Touring,$17811,Automatic,White,Black,FWD
+2020 Chevrolet Trax LS,$31995,Automatic,Silver,Black,FWD
+2017 Mercedes-Benz AMG GLA 45 Base 4MATIC,$8900,Automatic,Blue,Black,AWD
+2011 MINI Cooper Clubman Base,$13144,Automatic,Red,Black,FWD
+2019 Dodge Journey SE,$50978,Automatic,White,Black,FWD
+2018 Audi RS 3,$3900,Automatic,Gray,Black,AWD
+2005 Ford Focus ZX3 S,$20030,Automatic,Red,Gray,FWD
+2020 Chevrolet Trax LS,$18698,Automatic,White,Black,AWD
+2019 FIAT 500C Pop,$11995,Automatic,Silver,Other,FWD
+2020 Chevrolet Spark LS,$12589,CVT,Beige,Black,FWD
+2020 Chevrolet Spark LS,$19950,CVT,Silver,Black,FWD
+2001 Ford Excursion Limited,$19759,Automatic,Green,Beige,4x4/4-wheel drive
+2017 Chrysler Pacifica Touring,$11999,Automatic,White,Black,FWD
+1998 BMW Z3 2.8 Roadster,$18474,Automatic,Silver,Black,RWD
+2020 Chevrolet Trax LS,$2495,Automatic,Black,Black,FWD
+2001 Buick Park Avenue Base,$7795,Automatic,Gold,Beige,FWD
+2016 Mercedes-Benz CLS 400,$44959,Automatic,Silver,Black,RWD
+1975 Rolls-Royce Silver Shadow,$33500,Other / Unknown,White,White,RWD
+2020 Hyundai Palisade Limited,$10990,Automatic,Red,Black,FWD
+2017 Acura MDX Sport Hybrid 3.0L w/Advance Package,$22900,Automatic,Black,Black,AWD
+2020 Chevrolet Spark LS,$39505,Automatic,Silver,Black,FWD
+2017 INFINITI Q60 3.0T Premium,$16495,Automatic,Black,Gray,AWD
+2019 BMW X7 xDrive40i,$66800,Automatic,Gray,Other,AWD
+2017 GMC Yukon XL Denali,$6995,Automatic,Silver,Black,4x4/4-wheel drive
+2011 Volkswagen Jetta SportWagen TDI,$23699,Manual,Silver,Other,FWD
+2019 Buick LaCrosse Premium,$12659,Automatic,Gray,Other,FWD
+2020 Chevrolet Spark LS,$19371,Manual,Gray,Black,FWD
+2020 Chevrolet Trax LS,$9995,Automatic,Gray,Other,FWD
+2018 Nissan Sentra S,$23850,CVT,Black,Gray,FWD
+2018 Maserati Ghibli GranLusso,$13999,Automatic,Gray,Other,RWD
+2016 Chrysler Town & Country Touring,$4999,Automatic,White,Other,FWD
+2005 Chrysler 300C Base,$18905,Automatic,White,Gray,RWD
+2020 Chevrolet Spark 2LT,$11365,CVT,Orange,Black,FWD
+2020 Chevrolet Spark LS,$8500,CVT,Red,Black,FWD
+2017 Nissan Versa 1.6 SV,$22500,CVT,White,Gray,FWD
+2018 INFINITI QX30 Premium,$18238,Automatic,Gray,Gray,FWD
+2020 Chevrolet Trax LS,$18474,Automatic,Gray,Black,FWD
+2020 Chevrolet Trax LS,$18474,Automatic,Silver,Black,FWD
+2020 Chevrolet Trax LS,$19254,Automatic,Silver,Black,FWD
+2019 Dodge Journey Crossroad,$8195,Automatic,Silver,Black,FWD
+2020 Chevrolet Spark LS,$29048,CVT,Gray,Black,FWD
+2019 Subaru Legacy 2.5i Limited,$19969,CVT,Gray,Black,AWD
+2018 Nissan Pathfinder SL,$20899,CVT,Black,Gray,4x4/4-wheel drive
+2020 Chevrolet Spark 1LT,$13429,CVT,Red,Black,FWD
+2003 Hummer H2,$7988,Automatic,Black,Gray,4x4/4-wheel drive
+2020 Chevrolet Spark LS,$11820,Automatic,Blue,Black,FWD
+2017 Audi Q7 2.0T Premium,$35998,Automatic,Gray,Black,AWD
+2019 Dodge Journey GT,$28770,Automatic,White,Red,FWD
+2020 Chevrolet Spark LS,$12695,CVT,White,Black,FWD
+2020 Chevrolet Trax LS,$5799,Automatic,Gray,Black,FWD
+2004 Volvo C70 LT,$18474,Automatic,Black,Beige,FWD
+2020 Chevrolet Trax LS,$6495,Automatic,Silver,Black,FWD
+2007 Chrysler Aspen Limited,$9995,Automatic,Black,Other,4x4/4-wheel drive
+2007 Jaguar XK,$4995,Automatic,Silver,Other,RWD
+2017 Chevrolet Impala 1LT,$10990,Automatic,Black,Black,FWD
+2020 Chevrolet Spark LS,$10990,Automatic,White,Black,FWD
+2020 Chevrolet Spark LS,$10990,Automatic,White,Black,FWD
+2020 Chevrolet Spark LS,$5500,Automatic,White,Black,FWD
+2017 Nissan Sentra SV,$6995,CVT,Other,Other,FWD
+2013 Volkswagen Passat 2.0 TDI SEL Premium,$12900,Automatic,Black,Beige,FWD
+2018 Nissan NV200 S,$12997,CVT,White,Gray,FWD
+2019 Chevrolet Traverse LT Cloth,$21900,Automatic,Green,Black,FWD
+2007 Mazda RX-8 Sport,$2495,Manual,Black,Black,RWD
+2004 Buick Park Avenue,$2800,Automatic,Blue,Beige,FWD
+2020 Chevrolet Spark ACTIV,$16000,CVT,White,Black,FWD
+2006 Jaguar XJ8,$4995,Automatic,Green,Beige,RWD
+2020 Chevrolet Trax LS,$18570,Automatic,Black,Black,FWD
+2018 Lincoln Continental Premiere,$27166,Automatic,Silver,Black,AWD
+2018 Audi Q3 2.0T Premium,$21980,Automatic,Gray,Black,FWD
+2018 Volkswagen Atlas 3.6L S,$20999,Automatic,Black,Black,FWD
+2020 Chevrolet Spark LT,$16232,Automatic,Beige,Black,FWD
+2020 Chevrolet Spark LT,$16263,Automatic,Red,Black,FWD
+2019 Mercedes-Benz A 220,$29999,Automatic,Silver,Gray,FWD
+2020 Chevrolet Spark LS,$13493,CVT,Red,Black,FWD
+2018 Dodge Journey SE,$17185,Automatic,Silver,Black,FWD
+2020 Chevrolet Spark LS,$11995,CVT,Black,Black,FWD
+2020 Chevrolet Spark LS,$11258,CVT,Blue,Black,FWD
+2015 Nissan Juke NISMO,$11995,CVT,Black,Black,AWD
+2018 Lexus LS 500,$58950,Automatic,Blue,Beige,RWD
+2003 Subaru Baja,$7590,Automatic,Other,Gray,AWD
+2020 Chevrolet Trax LS,$17131,Automatic,White,Black,FWD
+2020 Chevrolet Spark ACTIV,$14324,CVT,Beige,Black,FWD
+2020 Chevrolet Spark ACTIV,$14688,CVT,Blue,Black,FWD
+2017 Buick Regal Turbo Sport Touring,$11995,Automatic,Red,Black,FWD
+2020 Chevrolet Spark LS,$13895,CVT,Beige,Other,FWD
+2018 Chrysler Pacifica Touring Plus,$21490,Automatic,Silver,Black,FWD
+2020 Chevrolet Spark LS,$56787,CVT,Red,Black,FWD
+2018 Lexus LS 500,$17975,Automatic,Silver,Other,AWD
+2020 Chevrolet Trax LS,$20261,Automatic,White,Black,FWD
+2020 Chevrolet Trax LS,$12900,Automatic,Black,Black,AWD
+1986 Oldsmobile Cutlass Supreme Brougham,$10490,Automatic,Brown,Beige,RWD
+2010 Honda Accord Crosstour EX-L,$18238,Automatic,White,Black,4x4/4-wheel drive
+2020 Chevrolet Spark ACTIV,$14889,CVT,Black,Black,FWD
+2020 Chevrolet Trax LS,$7500,Automatic,Gray,Black,FWD
+2020 Chevrolet Spark 1LT,$7900,CVT,White,Black,FWD
+2015 Chevrolet Equinox 1LT,$8995,Automatic,Other,Other,AWD
+2002 BMW Z3 3.0i Roadster,$13748,Automatic,Gray,Black,RWD
+2017 Nissan Sentra S,$11815,CVT,Gray,Black,FWD
+2016 GMC Canyon SLT,$18900,Automatic,Brown,White,RWD
+2007 Lexus GX 470,$11000,Automatic,White,Gray,4x4/4-wheel drive
+1994 Toyota Supra,$49995,Other / Unknown,Other,Other,Unknown
+2018 GMC Acadia Denali,$26169,Automatic,White,Brown,FWD
+2019 Audi e-tron Premium Plus,$59777,Automatic,White,Beige,AWD
+2012 Ford Transit Connect XLT,$8995,Automatic,White,Gray,FWD
+2004 Lexus LS 430,$15726,Automatic,Gray,Other,RWD
+2009 Buick Lucerne CXL,$7995,Automatic,Blue,Gray,FWD
+1998 Chevrolet Lumina,$2299,Automatic,Blue,Blue,FWD
+2015 Chevrolet City Express LS,$8107,CVT,Silver,Gray,FWD
+2012 Nissan NV Passenger 3500 SV,$16995,Automatic,White,Gray,RWD
+2020 Chevrolet Trax LS,$17781,Automatic,Gray,Black,FWD
+2020 Chevrolet Trax LS,$18979,Automatic,Black,Black,FWD
+2020 Chevrolet Trax LS,$18979,Automatic,White,Black,FWD
+2020 Chevrolet Spark LS,$13444,CVT,Orange,Black,FWD
+2020 Chevrolet Spark 1LT,$13873,CVT,Red,Black,FWD
+2019 Honda Insight LX,$15499,CVT,Silver,Black,FWD
+2017 Dodge Grand Caravan SXT,$10990,Automatic,Gray,Gray,FWD
+2020 Chevrolet Spark LS,$22995,Automatic,White,Black,FWD
+2005 Chrysler Crossfire Limited,$7998,Automatic,Red,Black,RWD
+2019 FIAT 500 Pop,$17795,Automatic,Silver,Black,FWD
+2017 Nissan Maxima 3.5 Platinum,$21888,CVT,Silver,Gray,FWD
+2006 Dodge Magnum SRT8,$22291,Automatic,Black,Black,RWD
+2019 Hyundai Santa Fe XL SE,$14888,Automatic,Blue,Gray,FWD
+2014 Volkswagen CC DSG Sport PZEV,$108805,Automatic,Black,Beige,FWD
+2020 BMW 750 i xDrive,$14415,Automatic,Red,Black,AWD
+2020 Chevrolet Spark LS,$31150,CVT,Red,Black,FWD
+2020 Ford Escape Titanium,$13800,Automatic,Silver,Beige,AWD
+2020 Chevrolet Spark LS,$13800,CVT,Blue,Black,FWD
+2020 Chevrolet Spark LS,$13447,CVT,Orange,Black,FWD
+2020 Chevrolet Spark LS,$18757,CVT,Orange,Black,FWD
+2020 Chevrolet Spark LS,$16250,CVT,Gray,Black,FWD
+2020 Chevrolet Trax LS,$12571,Automatic,Gray,Black,FWD
+2017 MINI Clubman Cooper S,$11815,Automatic,Silver,Black,FWD
+2017 Hyundai Tucson Limited,$6500,Automatic,Black,Beige,FWD
+2020 Chevrolet Spark LS,$18261,Automatic,White,Black,FWD
+2013 Audi S8 4.0T quattro,$29880,Automatic,Gray,Other,AWD
+2019 Dodge Journey Crossroad,$23388,Automatic,Silver,Black,AWD
+2019 INFINITI Q50 3.0t Sport,$24975,Automatic,Gray,Gray,RWD
+2012 Jaguar XJ L Portfolio,$16995,Automatic,Silver,Other,RWD
+2013 Chevrolet Cruze LTZ,$4981,Automatic,Beige,Black,FWD
+2020 Chevrolet Trax LS,$51500,Automatic,Gray,Black,FWD
+2016 Lexus GS F Base,$14202,Automatic,Black,Black,RWD
+2019 Nissan Versa 1.6 S+,$13985,CVT,Gray,Gray,FWD
+2019 Nissan Versa 1.6 S+,$14369,CVT,Gray,Gray,FWD
+2019 Chevrolet Spark 1LT,$5850,CVT,Silver,Black,FWD
+2017 Mitsubishi Mirage G4 ES,$26278,CVT,White,Gray,FWD
+2019 Dodge Journey GT,$7900,Automatic,Red,Red,AWD
+2006 Jeep Commander Limited,$22742,Automatic,Brown,Red,4x4/4-wheel drive
+2019 Dodge Journey Crossroad,$20254,Automatic,Black,Black,FWD
+2019 Dodge Journey Crossroad,$11995,Automatic,White,Black,FWD
+2007 Ford Explorer Sport Trac Limited,$12167,Automatic,Gray,Beige,4x4/4-wheel drive
+2020 Chevrolet Spark LS,$14497,CVT,Orange,Black,FWD
+2006 Cadillac XLR,$36800,Automatic,Red,Gray,RWD
+2003 Subaru Baja,$8950,Manual,Silver,Gray,AWD
+2016 Dodge Journey SE,$9490,Automatic,White,Black,FWD
+2017 Nissan Frontier SV,$15279,Automatic,Silver,Gray,RWD
+2016 Buick Enclave Leather,$15899,Automatic,Silver,Brown,FWD
+2018 Subaru Impreza 2.0i Premium,$13999,CVT,Silver,Black,AWD
+2017 Honda Odyssey EX-L,$21889,Automatic,Gray,Beige,FWD
+2014 Mitsubishi Mirage DE,$5500,CVT,Red,Black,FWD
+2020 Chevrolet Spark LS,$10044,CVT,Gray,Black,FWD
+2018 Audi S6 Prestige,$53843,Automatic,Black,Other,AWD
+2010 Honda Fit Sport,$6999,Automatic,Blue,Gray,FWD
+2020 Chevrolet Trax LS,$17996,Automatic,Gray,Black,FWD
+2008 Saturn Sky,$11130,Manual,Black,Black,RWD
+2016 Mercedes-Benz AMG GT AMG GT S,$65999,Automatic,Blue,Other,RWD
+2020 Chevrolet Trax LS,$18505,Automatic,Gray,Other,FWD
+2011 Mercedes-Benz SLK 300,$12990,Automatic,Black,Black,RWD
+2018 Subaru Legacy 2.5i,$12995,CVT,Gray,Gray,AWD
+2009 Ferrari F430 Spider,$149995,Automatic,Black,Beige,RWD
+2007 Cadillac Escalade EXT,$7200,Automatic,Beige,Beige,AWD
+2015 Chrysler Town & Country Touring-L,$14450,Automatic,Gray,Black,FWD
+2018 Acura RLX Technology Package,$30799,Automatic,Silver,Black,FWD
+2008 Maserati Quattroporte Sport GT S,$12988,Automatic,Black,Black,RWD
+2020 Chevrolet Spark ACTIV,$17380,CVT,Black,Black,FWD
+2008 smart ForTwo Passion Cabriolet,$3988,Automatic,Orange,Black,RWD
+2017 Nissan Sentra SR,$12277,CVT,Red,Other,FWD
+2019 Dodge Journey SE,$24681,Automatic,Black,Black,FWD
+2015 Scion FR-S,$9974,Automatic,White,Other,RWD
+2017 GMC Acadia Denali,$23479,Automatic,Black,Black,FWD
+2018 Buick Envision Essence,$18495,Automatic,Black,Black,AWD
+2020 Chevrolet Spark LS,$15744,CVT,Red,Black,FWD
+2016 Nissan Maxima 3.5 SL,$7495,CVT,White,Gray,FWD
+2014 Chevrolet Malibu 2LT,$18464,Automatic,Gray,Black,FWD
+2020 Chevrolet Trax LS,$18505,Automatic,Black,Other,FWD
+2020 Chevrolet Trax LS,$13894,Automatic,Gray,Other,FWD
+2020 Chevrolet Spark LS,$8590,CVT,Red,Black,FWD
+2020 Chevrolet Spark LS,$10500,CVT,Orange,Black,FWD
+2006 Nissan 350Z Touring,$16534,Manual,Blue,Gray,RWD
+2019 Nissan Kicks S,$25895,CVT,White,Gray,FWD
+2015 Maserati Ghibli S Q4,$3999,Automatic,Black,Red,AWD
+2013 Nissan Sentra SR,$3900,CVT,Black,Black,FWD
+2002 Ford Explorer Sport,$2775,Automatic,Black,Gray,RWD
+2016 Nissan Sentra SV,$7399,CVT,Silver,Gray,FWD
+2015 Kia Optima Hybrid EX,$9490,Automatic,Black,Black,FWD
+2020 Chevrolet Trax LS,$17631,Automatic,White,Black,FWD
+2017 Volvo XC90 Hybrid T8 Inscription,$42999,Automatic,White,Beige,AWD
+2020 Chevrolet Spark LS,$11490,Manual,White,Black,FWD
+2019 RAM ProMaster City Tradesman,$16314,Automatic,Silver,Black,FWD
+2004 Chrysler Crossfire,$5888,Manual,Red,Gray,RWD
+2020 Chevrolet Spark 1LT,$15674,CVT,Blue,Black,FWD
+2020 Chevrolet Spark 1LT,$15674,CVT,Blue,Black,FWD
+2017 Land Rover Discovery HSE LUXURY,$38900,Automatic,Blue,Other,4x4/4-wheel drive
+2018 Ford Fusion Energi SE Luxury,$14995,CVT,White,Black,FWD
+2006 Bentley Continental Flying Spur,$32995,Automatic,White,Red,AWD
+2013 INFINITI M37 Base,$12995,Automatic,Gray,Other,RWD
+2017 Nissan Altima 2.5 SV,$6995,Automatic,Other,Other,FWD
+2020 Chevrolet Spark LS,$10990,Automatic,Silver,Black,FWD
+2020 Chevrolet Spark LS,$10990,Automatic,Red,Black,FWD
+2020 Chevrolet Spark LS,$10990,Automatic,Gray,Black,FWD
+2006 Dodge Magnum SXT,$5495,Automatic,Black,Gray,AWD
+2018 Honda Clarity Plug-In Hybrid Base,$18990,CVT,Silver,Black,FWD
+2004 Chrysler Crossfire,$5498,Automatic,Gray,Gray,RWD
+2020 Chevrolet Spark 1LT,$18970,CVT,Black,Black,FWD
+2012 Ferrari California Base,$105000,Automatic,White,Blue,RWD
+2019 Hyundai Santa Fe XL SE,$24411,Automatic,Brown,Beige,FWD
+2015 Nissan NV Passenger NV3500 HD SV V6/SV V8,$19995,Automatic,White,Beige,RWD
+2020 Chevrolet Spark LS,$14195,CVT,White,Black,FWD
+2017 Lincoln MKZ Hybrid Premiere,$18500,CVT,White,Beige,FWD
+2013 Dodge Dart SXT,$7367,Automatic,Blue,Other,FWD
+2015 Acura ILX 2.0L,$10995,Automatic,Gray,Black,FWD
+2020 Chevrolet Spark 1LT,$13876,CVT,Black,Black,FWD
+2020 Chevrolet Spark 1LT,$12457,CVT,Gray,Black,FWD
+2017 Bentley Bentayga W12,$149841,Automatic,White,Black,AWD
+2020 Chevrolet Spark LT,$17600,Automatic,Orange,Black,FWD
+2020 Chevrolet Spark ACTIV,$10950,CVT,Black,Black,FWD
+2011 Nissan Murano CrossCabriolet Base,$24495,CVT,Gray,Other,AWD
+2019 Cadillac XT4 Luxury,$47999,Automatic,Black,Beige,FWD
+2018 Audi S6 4.0T Premium Plus,$14490,Automatic,Black,Red,AWD
+2020 Chevrolet Spark 1LT,$22344,CVT,Blue,Black,FWD
+2000 Ford Excursion Limited,$11995,Automatic,Black,Other,RWD
+2017 Nissan Maxima 3.5 S,$13990,CVT,White,Beige,FWD
+2012 Jaguar XK R,$18189,Automatic,White,Other,RWD
+2015 Honda Odyssey Touring,$3500,Automatic,White,Gray,FWD
+2002 Jaguar X-Type 2.5,$14195,Automatic,Black,Gray,AWD
+2020 Chevrolet Spark LS,$9950,CVT,Red,Black,FWD
+2015 Kia Optima LX,$13450,Automatic,Silver,Gray,FWD
+2016 Ford Focus ST Base,$11598,Manual,Blue,Gray,FWD
+2016 Ford Fusion Energi Titanium,$30995,CVT,Black,Beige,FWD
+2019 Lincoln Nautilus Select,$15175,Automatic,Blue,Brown,FWD
+2020 Chevrolet Spark 1LT,$12457,CVT,Silver,Black,FWD
+2020 Chevrolet Spark 1LT,$12457,CVT,Red,Black,FWD
+2020 Chevrolet Spark 1LT,$10832,CVT,Black,Black,FWD
+2020 Chevrolet Spark LS,$5495,CVT,Silver,Black,FWD
+2020 Chevrolet Spark LS,$5995,CVT,Orange,Black,FWD
+2009 Volkswagen CC Sport,$14258,Manual,White,Black,FWD
+2007 Mercedes-Benz R 350 4MATIC,$13180,Automatic,Blue,Gray,AWD
+2016 Dodge Durango SXT,$15900,Automatic,Gray,Black,RWD
+2020 Chevrolet Trax LS,$17631,Automatic,White,Black,FWD
+2020 Chevrolet Spark LS,$10995,CVT,White,Black,FWD
+2020 Chevrolet Spark LS,$11340,CVT,Blue,Black,FWD
+2020 Chevrolet Spark 1LT,$14900,CVT,White,Black,FWD
+2020 Chevrolet Spark 1LT,$14900,CVT,White,Black,FWD
+2020 Chevrolet Spark 1LT,$14900,CVT,Red,Black,FWD
+2020 Chevrolet Spark 1LT,$14900,CVT,Black,Black,FWD
+2020 Chevrolet Spark 1LT,$14900,CVT,Black,Black,FWD
+2020 Chevrolet Spark LS,$14998,Automatic,Silver,Black,FWD
+2020 Chevrolet Trax LS,$16608,Automatic,Black,Black,FWD
+2020 Chevrolet Spark LS,$12531,CVT,White,Black,FWD
+2020 Chevrolet Spark 2LT,$18135,CVT,Blue,Black,FWD
+1999 GMC Sonoma SLS,$3494,Automatic,Black,Gray,RWD
+2019 BMW X2 M35i,$32999,Automatic,White,Black,AWD
+2020 Chevrolet Trax LS,$18334,Automatic,Gray,Other,FWD
+2020 Chevrolet Trax LS,$14061,Automatic,Silver,Black,FWD
+2017 Dodge Grand Caravan SXT,$8795,Automatic,Red,Black,FWD
+2020 Chevrolet Spark 1LT,$13921,CVT,Orange,Black,FWD
+2008 Mazda RX-8 Grand Touring,$5995,Automatic,Gray,Black,RWD
+2020 Chevrolet Spark 1LT,$14900,CVT,Black,Black,FWD
+2020 Chevrolet Spark 1LT,$14900,CVT,Red,Black,FWD
+2020 Chevrolet Spark 1LT,$14900,CVT,Red,Black,FWD
+2020 Chevrolet Spark 1LT,$14900,CVT,Silver,Black,FWD
+2018 Toyota C-HR XLE Premium,$14495,CVT,Blue,Black,FWD
+2019 Dodge Grand Caravan SXT,$17899,Automatic,Red,Black,FWD
+2017 Nissan Altima 2.5 SV,$9995,CVT,Gray,Other,FWD
+2020 Chevrolet Spark 1LT,$14018,CVT,Silver,Black,FWD
+2020 Chevrolet Spark LS,$10687,CVT,Blue,Black,FWD
+2007 Bentley Continental Flying Spur,$36987,Automatic,Gray,Other,AWD
+2020 Chevrolet Spark LS,$15195,Automatic,Silver,Black,FWD
+2020 Chevrolet Spark LS,$15195,Automatic,Silver,Black,FWD
+2020 Chevrolet Spark LS,$8195,CVT,Blue,Black,FWD
+2020 Chevrolet Spark LS,$8195,CVT,Silver,Black,FWD
+2020 Chevrolet Spark LS,$8195,CVT,Red,Black,FWD
+2020 Chevrolet Spark LS,$8195,CVT,Black,Black,FWD
+2020 Chevrolet Spark LS,$19343,CVT,Gray,Black,FWD
+2020 Chevrolet Trax LS,$12212,Automatic,White,Other,FWD
+2020 Chevrolet Spark LS,$11508,CVT,White,Black,FWD
+2018 Chevrolet Malibu Hybrid,$15599,Automatic,Blue,Black,FWD
+2018 INFINITI QX30 Premium,$22987,Automatic,White,Beige,FWD
+2019 Dodge Journey SE,$16995,Automatic,Silver,Black,FWD
+2011 Ford Crown Victoria Police Interceptor,$4995,Automatic,Beige,Gray,RWD
+2018 Chevrolet Traverse LT Cloth,$23900,Automatic,Black,Other,AWD
+2020 Chevrolet Spark LS,$13408,CVT,Beige,Other,FWD
+2020 Chevrolet Trax LS,$4995,Automatic,Gray,Black,FWD
+2020 Chevrolet Trax LS,$17828,Automatic,Gray,Black,FWD
+2005 Volkswagen Phaeton V8,$225500,Automatic,Black,Black,Unknown
+2020 Chevrolet Trax LS,$18334,Automatic,Gray,Black,FWD
+2019 Lamborghini Urus Base,$18505,Automatic,Other,Black,AWD
+2020 Chevrolet Trax LS,$18072,Automatic,Silver,Other,FWD
+2020 Chevrolet Trax LS,$10988,Automatic,Gray,Other,FWD
+2020 Chevrolet Trax LS,$12356,Automatic,Gray,Other,FWD
+2020 Chevrolet Spark LS,$18798,CVT,Gray,Black,FWD
+2020 Chevrolet Spark LS,$19707,CVT,White,Black,FWD
+2020 Chevrolet Trax LS,$14500,Automatic,Silver,Black,FWD
+2020 Chevrolet Trax LS,$14304,Automatic,Gray,Black,AWD
+2017 Maserati Levante Base,$48888,Automatic,Black,Red,AWD
+1995 Lexus SC 400,$4495,Automatic,Black,Beige,Unknown
+2020 Nissan Versa S,$15838,Manual,Gray,Gray,FWD
+2018 Kia Optima Plug-In Hybrid EX,$22477,Automatic,Blue,Other,FWD
+2017 BMW M240 i,$25289,Manual,Blue,Black,RWD
+2018 Ford Fiesta ST,$13500,Manual,Orange,Black,FWD
+2019 Ford Escape SE,$17599,Automatic,White,Black,4x4/4-wheel drive
+2018 Chevrolet Express 2500 Work Van,$22000,Automatic,White,Gray,RWD
+1996 Nissan 300ZX Turbo,$7995,Automatic,White,Black,FWD
+2018 Ford Transit-150 Base,$19500,Automatic,White,Other,RWD
+2020 Chevrolet Spark LT,$15417,Automatic,White,Black,FWD
+2020 Chevrolet Spark LS,$11474,CVT,Red,Black,FWD
+2020 Chevrolet Spark LS,$26300,CVT,Gray,Black,FWD
+2018 Chrysler Pacifica Hybrid Touring L,$30668,Automatic,Red,Black,FWD
+2019 Dodge Journey GT,$18422,Automatic,Red,Red,AWD
+2020 Chevrolet Trax LS,$8600,Automatic,White,Black,FWD
+2017 Chevrolet Cruze LT,$14496,Automatic,White,Black,FWD
+2020 Chevrolet Spark LS,$48998,Automatic,White,Black,FWD
+2017 GMC Sierra 3500 Denali,$20010,Automatic,Black,Black,4x4/4-wheel drive
+2020 Chevrolet Spark LS,$12060,Manual,Blue,Black,FWD
+2017 Chevrolet Malibu 1LT,$10990,Automatic,White,Gray,FWD
+2020 Chevrolet Trax LS,$16381,Automatic,White,Gray,FWD
+2020 Chevrolet Spark LS,$12784,CVT,Blue,Black,FWD
+2020 Chevrolet Spark LS,$15195,CVT,Beige,Black,FWD
+2020 Chevrolet Spark LS,$15195,CVT,White,Black,FWD
+2020 Chevrolet Spark LS,$15195,CVT,Beige,Black,FWD
+2020 Chevrolet Spark LS,$15195,CVT,Beige,Black,FWD
+2020 Chevrolet Spark LS,$15590,CVT,Blue,Black,FWD
+2016 Nissan Pathfinder Platinum,$15495,CVT,Green,Beige,4x4/4-wheel drive
+2020 Chevrolet Spark LS,$14841,Automatic,Orange,Black,FWD
+2020 Chevrolet Spark LS,$10988,CVT,Gray,Black,FWD
+2020 Chevrolet Spark LS,$9988,CVT,Orange,Black,FWD
+2020 Nissan Versa 1.6 SR,$18485,CVT,Red,Gray,FWD
+2020 Chevrolet Spark LS,$13624,CVT,Silver,Black,FWD
+2014 Hyundai Equus Signature,$17500,Automatic,Silver,Black,RWD
+2019 Dodge Journey Crossroad,$26724,Automatic,Red,Black,FWD
+2019 Chevrolet Equinox 1LT,$16800,Automatic,White,Black,FWD
+2016 Hyundai Sonata Hybrid SE,$12995,Automatic,Blue,Beige,FWD
+2020 Chevrolet Spark LS,$13658,CVT,Gray,Black,FWD
+2020 Chevrolet Trax LS,$18000,Automatic,Black,Black,FWD
+2015 BMW i8 Base,$63000,Automatic,Gray,White,AWD
+2015 Nissan Armada Platinum,$23399,Automatic,Blue,Beige,4x4/4-wheel drive
+2020 Chevrolet Spark LS,$14889,CVT,Red,Black,FWD
+1988 Lamborghini Countach LP5000 QV,$399900,Manual,Black,Black,RWD
+2020 Chevrolet Spark LS,$14777,CVT,Red,Black,FWD
+2020 Chevrolet Spark LS,$15195,CVT,Black,Black,FWD
+2020 Chevrolet Spark LS,$15195,CVT,Gray,Black,FWD
+2020 Chevrolet Spark LS,$15195,CVT,Silver,Black,FWD
+2017 GMC Sierra 1500 Denali,$29280,Automatic,Black,Black,RWD
+2004 Mazda RX-8 Base,$8500,Manual,Green,Black,RWD
+2020 Chevrolet Trax LS,$18180,Automatic,Silver,Black,FWD
+2020 Chevrolet Trax LS,$18180,Automatic,Silver,Black,FWD
+2017 Lincoln MKZ Hybrid Premiere,$13800,CVT,Silver,Beige,FWD
+2020 Chevrolet Spark LS,$28306,CVT,Orange,Black,FWD
+2019 Dodge Journey GT,$54900,Automatic,Red,Black,AWD
+2018 Lexus LS 500 F Sport,$12979,Automatic,Silver,Red,AWD
+2020 Chevrolet Spark LS,$13624,CVT,Gray,Black,FWD
+2020 Chevrolet Spark LS,$31924,CVT,Red,Black,FWD
